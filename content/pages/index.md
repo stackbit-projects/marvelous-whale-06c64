@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     colors: colors-a
     width: wide
-    height: tall
+    height: viewport
     topGap: medium
     bottomGap: medium
     contentWidth: large
