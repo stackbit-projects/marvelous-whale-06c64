@@ -16,7 +16,7 @@ sections:
     textAlign: left
     badge:
       label: New Website
-    title: 'We’re StayYour dog is one-of-a-kind.Their food should be, too.'
+    title: Test test
     text: >-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
