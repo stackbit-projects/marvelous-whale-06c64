@@ -10,7 +10,7 @@ sections:
     height: viewport
     bottomGap: none
     topGap: none
-    contentWidth: large
+    contentWidth: medium
     contentAlignHoriz: center
     contentAlignVert: middle
     textAlign: left
