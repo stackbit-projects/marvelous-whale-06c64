@@ -2,6 +2,22 @@
 title: Example Page
 layout: PageLayout
 sections:
+  - type: TextSection
+    colors: colors-a
+    width: wide
+    height: short
+    textAlign: left
+    badge:
+      label: Small text
+    title: The Section Title
+    subtitle: The section subtitle
+    text: >-
+      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
+      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
+      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
   - type: ContactSection
     variant: variant-b
     colors: colors-e
@@ -45,22 +61,6 @@ sections:
           label: Sign me up to receive updates
           width: full
       submitLabel: Send Message
-  - type: TextSection
-    colors: colors-a
-    width: wide
-    height: short
-    textAlign: left
-    badge:
-      label: Small text
-    title: The Section Title
-    subtitle: The section subtitle
-    text: >-
-      Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
-      Sed ut perspiciatis undeomnis iste natus error sit voluptatem accusantium
-      doloremque laudantium, totam rem aperiam. Eaque ipsa quae ab illo
-      inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
   - type: CtaSection
     variant: variant-a
     colors: colors-h
@@ -110,7 +110,7 @@ sections:
     textAlign: left
     badge:
       label: New Website
-    title: The quick, brown fox jumps over a lazy dog
+    title: 'The quick, brown fox jumps over a lazy dog'
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
       doloremque laudantium, totam rem aperiam, eaque ipsa quae. explicabo.
