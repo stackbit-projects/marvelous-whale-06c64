@@ -43,6 +43,37 @@ sections:
       caption: lorem-ipsum
       opacity: 100
       type: ImageBlock
+  - elementId: ''
+    colors: colors-f
+    width: wide
+    height: tall
+    contentWidth: large
+    contentAlignHoriz: center
+    contentAlignVert: middle
+    topGap: none
+    bottomGap: none
+    textAlign: left
+    variant: variant-a
+    badge:
+      elementId: ''
+      label: lorem-ipsum
+    title: Another Title...
+    subtitle: This Is Subtitle
+    text: Hello
+    actions:
+      - label: Stackbit
+        url: 'https://www.stackbit.com'
+    feature:
+      type: ImageBlock
+      url: /images/hero.png
+      altText: Hero section image
+    backgroundImage:
+      elementId: ''
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 100
+      type: ImageBlock
+    type: HeroSection
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
