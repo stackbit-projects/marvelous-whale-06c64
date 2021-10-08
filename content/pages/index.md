@@ -63,7 +63,7 @@ sections:
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c
-    width: wide
+    width: full
     height: short
     contentWidth: medium
     contentAlignHoriz: center
