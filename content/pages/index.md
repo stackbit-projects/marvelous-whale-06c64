@@ -9,7 +9,7 @@ sections:
     topGap: medium
     bottomGap: medium
     contentWidth: medium
-    contentAlignHoriz: left
+    contentAlignHoriz: center
     contentAlignVert: middle
     textAlign: left
     variant: variant-a
