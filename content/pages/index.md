@@ -22,6 +22,7 @@ sections:
     people:
       - content/data/team/desmond-eagle.json
       - content/data/team/dianne-ameter.json
+      - content/data/person-nyckr28wv.json
       - content/data/team/hilary-ouse.json
     type: FeaturedPeopleSection
   - type: HeroSection
