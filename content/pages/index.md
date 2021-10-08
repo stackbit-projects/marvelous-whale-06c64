@@ -53,6 +53,25 @@ sections:
       - content/pages/blog/post-three.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
+  - type: TestimonialsSection
+    variant: variant-b
+    colors: colors-h
+    width: wide
+    height: short
+    textAlign: left
+    bottomGap: none
+    topGap: none
+    contentAlignHoriz: center
+    testimonials:
+      - quote: >-
+          “It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.”
+        name: Isabelle Parks
+        title: Head chef at Parks
+        image:
+          type: ImageBlock
+          url: /images/isabelle-parks.jpg
+          altText: Isabelle Parks
   - elementId: ''
     colors: colors-f
     width: wide
@@ -84,25 +103,6 @@ sections:
       opacity: 100
       type: ImageBlock
     type: HeroSection
-  - type: TestimonialsSection
-    variant: variant-b
-    colors: colors-h
-    width: wide
-    height: short
-    textAlign: left
-    bottomGap: none
-    topGap: none
-    contentAlignHoriz: center
-    testimonials:
-      - quote: >-
-          “It’s great to see someone taking action while still maintaining a
-          sustainable fish supply to home cooks.”
-        name: Isabelle Parks
-        title: Head chef at Parks
-        image:
-          type: ImageBlock
-          url: /images/isabelle-parks.jpg
-          altText: Isabelle Parks
   - type: CtaSection
     variant: variant-b
     colors: colors-c
