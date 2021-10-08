@@ -10,7 +10,7 @@ sections:
     bottomGap: medium
     contentWidth: medium
     contentAlignHoriz: right
-    contentAlignVert: middle
+    contentAlignVert: bottom
     textAlign: left
     variant: variant-a
     badge:
