@@ -274,7 +274,7 @@ sections:
     bottomGap: medium
     contentWidth: large
     contentAlignHoriz: center
-    contentAlignVert: middle
+    contentAlignVert: bottom
     textAlign: left
     variant: variant-a
     badge:
