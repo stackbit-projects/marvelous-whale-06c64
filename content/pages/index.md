@@ -89,6 +89,7 @@ sections:
     posts:
       - content/pages/blog/post-three.md
       - content/pages/postlayout-51b10l9af.md
+      - content/pages/postlayout-lsgc2naoe.md
       - content/pages/blog/post-two.md
       - content/pages/blog/post-one.md
   - type: TestimonialsSection
