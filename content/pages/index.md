@@ -273,7 +273,7 @@ sections:
     topGap: medium
     bottomGap: medium
     contentWidth: large
-    contentAlignHoriz: left
+    contentAlignHoriz: center
     contentAlignVert: middle
     textAlign: left
     variant: variant-a
